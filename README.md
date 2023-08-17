@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<strong>I am currently a 4th year student at Polytech Montpellier (a highly selective Engineering School
+<strong>I am currently a last year student at Polytech Montpellier (a highly selective Engineering School
 in the South of France), preparing a 5-year Engineering qualification in Computer Science and
 Management (equivalent to a master’s degree in Engineering).</strong>
 
