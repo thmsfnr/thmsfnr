@@ -15,4 +15,3 @@ Passionate about sports or intellectual challenges, these activities help me cul
 🤝 <strong>𝗟𝗲𝘁’𝘀 𝗯𝘂𝗶𝗹𝗱 𝘁𝗵𝗲 𝗳𝘂𝘁𝘂𝗿𝗲 𝗼𝗳 𝗳𝗶𝗻𝗮𝗻𝗰𝗲 𝘁𝗼𝗴𝗲𝘁𝗵𝗲𝗿</strong>  
 Interested in finance, technology, or innovation? I’m always open to ideas and collaborations.  
 Feel free to reach out!
-
