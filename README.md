@@ -1,7 +1,5 @@
 ### Hi there! 👋
 
-💡 <strong>𝗕𝗿𝗶𝗱𝗴𝗶𝗻𝗴 𝘁𝗲𝗰𝗵 𝗮𝗻𝗱 𝗳𝗶𝗻𝗮𝗻𝗰𝗲, 𝗳𝘂𝗲𝗹𝗲𝗱 𝗯𝘆 𝗽𝗮𝘀𝘀𝗶𝗼𝗻</strong>
-
 Since I was 18, I have been <strong>𝗳𝗮𝘀𝗰𝗶𝗻𝗮𝘁𝗲𝗱 𝗯𝘆 𝗳𝗶𝗻𝗮𝗻𝗰𝗶𝗮𝗹 𝗺𝗮𝗿𝗸𝗲𝘁𝘀</strong>, studying investment strategies, analyzing trends, and honing my skills. At the same time, I explored <strong>𝘀𝗼𝗳𝘁𝘄𝗮𝗿𝗲 𝗲𝗻𝗴𝗶𝗻𝗲𝗲𝗿𝗶𝗻𝗴 𝗮𝗻𝗱 𝗱𝗮𝘁𝗮 𝘀𝗰𝗶𝗲𝗻𝗰𝗲</strong>, driven by a desire to build impactful solutions.
 
 During my engineering studies, my <strong>𝗱𝘂𝗮𝗹 𝗽𝗮𝘀𝘀𝗶𝗼𝗻𝘀</strong> led me to early entrepreneurial projects. <strong>𝗧𝗿𝗮𝗱𝗲𝗹</strong> provided transparent, simple, and effective solutions for investors navigating financial markets. <strong>𝗘𝘅𝗳𝗿𝗮</strong> focused on developing scalable, user-friendly mobile apps. These experiences taught me the importance of <strong>𝗺𝗮𝗿𝗸𝗲𝘁 𝗱𝗲𝗺𝗮𝗻𝗱, 𝘁𝗲𝗰𝗵𝗻𝗶𝗰𝗮𝗹/𝗿𝗲𝗴𝘂𝗹𝗮𝘁𝗼𝗿𝘆 𝗳𝗲𝗮𝘀𝗶𝗯𝗶𝗹𝗶𝘁𝘆, 𝗮𝗻𝗱 𝗯𝘂𝗶𝗹𝗱𝗶𝗻𝗴 𝘀𝗼𝗹𝘂𝘁𝗶𝗼𝗻𝘀 𝘁𝗵𝗮𝘁 𝘁𝗿𝘂𝗹𝘆 𝗺𝗮𝘁𝘁𝗲𝗿</strong>.
@@ -11,8 +9,3 @@ I also gained hands-on experience as a <strong>𝘀𝗼𝗳𝘁𝘄𝗮𝗿𝗲 
 Today, I lead <strong>𝗖𝗼𝗹𝗯𝗲𝗿</strong> a next-generation digital financial advisor in active development. While my long-term mission is to <strong>𝗿𝗲𝗶𝗺𝗮𝗴𝗶𝗻𝗲 𝗳𝗶𝗻𝗮𝗻𝗰𝗶𝗮𝗹 𝗮𝗱𝘃𝗶𝘀𝗼𝗿𝘆 𝗮𝗻𝗱 𝗱𝗲𝗺𝗼𝗰𝗿𝗮𝘁𝗶𝘇𝗲 𝘀𝗺𝗮𝗿𝘁𝗲𝗿 𝗶𝗻𝘃𝗲𝘀𝘁𝗺𝗲𝗻𝘁 𝗴𝘂𝗶𝗱𝗮𝗻𝗰𝗲</strong>, my current focus is on equity investing. <strong>𝗖𝗼𝗹𝗯𝗲𝗿</strong> helps users detect opportunities automatically, guide decisions with model portfolios, and deliver personalized recommendations, combining rigor, long-term vision, and accessibility.
 
 Beyond work, I embrace the same mindset through <strong>𝗲𝗻𝗱𝘂𝗿𝗮𝗻𝗰𝗲 𝘀𝗽𝗼𝗿𝘁𝘀</strong>, completing marathons and long trails. The lessons of <strong>𝗿𝗲𝘀𝗶𝗹𝗶𝗲𝗻𝗰𝗲, 𝗱𝗶𝘀𝗰𝗶𝗽𝗹𝗶𝗻𝗲, 𝗮𝗻𝗱 𝗰𝗼𝗻𝘁𝗶𝗻𝘂𝗼𝘂𝘀 𝗶𝗺𝗽𝗿𝗼𝘃𝗲𝗺𝗲𝗻𝘁</strong> guide my approach as an entrepreneur. I also enjoy exploring <strong>𝗽𝗼𝗹𝗶𝘁𝗶𝗰𝗮𝗹 𝗮𝗻𝗱 𝗽𝗵𝗶𝗹𝗼𝘀𝗼𝗽𝗵𝗶𝗰𝗮𝗹</strong> ideas.
-
-🔹 <strong>𝗕𝘂𝗶𝗹𝗱𝗶𝗻𝗴 𝘀𝗺𝗮𝗿𝘁𝗲𝗿, 𝗺𝗼𝗿𝗲 𝗶𝗻𝗰𝗹𝘂𝘀𝗶𝘃𝗲 𝗳𝗶𝗻𝗮𝗻𝗰𝗶𝗮𝗹 𝘀𝘆𝘀𝘁𝗲𝗺𝘀 𝘁𝗵𝗿𝗼𝘂𝗴𝗵 𝗶𝗻𝗻𝗼𝘃𝗮𝘁𝗶𝗼𝗻.</strong>
-🚀 <strong>𝗟𝗲𝘁’𝘀 𝗯𝘂𝗶𝗹𝗱 𝘁𝗵𝗲 𝗳𝘂𝘁𝘂𝗿𝗲 𝗼𝗳 𝗳𝗶𝗻𝗮𝗻𝗰𝗲, 𝘁𝗼𝗴𝗲𝘁𝗵𝗲𝗿.</strong>
-
-
