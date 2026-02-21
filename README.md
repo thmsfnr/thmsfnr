@@ -1,5 +1,3 @@
-### Hi there! 👋
-
 Pros have algorithms and analysts. Retail investors have intuition. Colber bridges this gap.
 
 As a stock market investor for several years, I always hit the same wall: time.
