@@ -1,19 +1,22 @@
-Pros have algorithms and analysts. Retail investors have intuition. Colber bridges this gap.
+I build digital products from the ground up.
 
-As a stock market investor for several years, I always hit the same wall: time.
+Driven by a deep passion for finance and complex ecosystems, I combine the execution rigor of an IT Auditor (Ex-EY) with Tier-1 banking tech experience (Ex-smartTrade).
 
-My technical analysis strategy worked, but manually scanning hundreds of charts every night was unsustainable. I was missing opportunities simply because I couldn't monitor everything.
+Today, I channel this dual expertise through Exfra, your turnkey digital project.
+Acting as a technical and product partner, I deliver scalable applications that solve real business problems, handling everything from product discovery to full-stack delivery.
 
-I decided to automate my own method.
+🚀 The Showcase: Colber
 
-👨‍💻 Why is Colber unique? I combined my 3 areas of expertise to build the tool I couldn't find anywhere else:
+The ultimate proof of my execution capability is Colber, a live 24/7 market radar (Stocks & Crypto) currently in its active user acquisition phase.
 
-• Market Experience: An app designed by an active investor, for active investors.
+I designed it to solve my own frustration as a retail investor, a lack of time.
 
-• Banking Tech (Ex-SmartTrade): I worked on trading software for major banks. I know the inner workings.
+Bridging retail intuition and professional algorithms, Colber is the live demonstration of my ability to handle complex financial data, cross-platform delivery (iOS/Android/Web), and algorithmic rigor.
 
-• The Rigor (Ex-IT Auditor @EY): I demand total reliability for data and signals.
+Our promise: Analyze the markets without sacrificing your nights.
 
-🚀 The Result: Colber. A 24/7 Market Radar (Stocks & Crypto). The algorithm works for you. It scans, detects key levels, and identifies breakouts in real-time.
+💡 What’s next?
 
-No more noise. Time for execution.
+My daily focus is on scaling Exfra and driving Colber. That said, I remain a builder at heart and I’m always open to connecting with tech-first teams on high-impact collective projects.
+
+Whether it's to exchange insights on product engineering, explore synergies at scale, or discuss Fintech innovation, my DMs are open.
